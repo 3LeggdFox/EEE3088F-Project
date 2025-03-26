@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SS-12D11G3R"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-02-24-05:05:33)
+    (mountForm default
+        (footprintRef "SS12D11G3R")
+        (spec "System")
+    )
+)

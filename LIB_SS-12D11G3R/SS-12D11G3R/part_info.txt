@@ -1,0 +1,9 @@
+Manufacturer=XKB Connectivity
+PartNumber=SS-12D11G3R
+PartCategory=Switch
+PackageCategory=Other
+PinCount=5
+Version=4.6
+Released=2025-02-24 05:05:33
+Downloaded=2025-03-26 15:24:36
+3D=Y

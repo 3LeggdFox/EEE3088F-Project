@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SS_12D11G3R'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "XKB Connectivity", "SS-12D11G3R" (!) = "", "SS12D11G3R", "Other", "", "", "", "", "Bend-in 3A Single Pole Double Throw (SPDT) 125V Black 10,000 times Plugin Slide Switches ROHS , -40~+85", "http://www.helloxkb.com/public/images/pdf/SS-12D11XXX.pdf", "6.9 mm"
+END_PART
+
+END.
