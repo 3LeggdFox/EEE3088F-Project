@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPAP2112K-3.3TRG1
+D 600mA, 10uA,High PSRR Voltage Regulator
+K
+F https://datasheet.lcsc.com/lcsc/2205241716_TECH-PUBLIC-TPAP2112K-3-3TRG1_C3021085.pdf
+$ENDCMP
+#
+#End Doc Library

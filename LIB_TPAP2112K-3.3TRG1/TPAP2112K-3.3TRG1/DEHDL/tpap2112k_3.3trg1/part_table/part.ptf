@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPAP2112K_3.3TRG1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TECH PUBLIC", "TPAP2112K-3.3TRG1" (!) = "", "SOT95P280X125-5N", "SOT23 (5-Pin)", "", "", "", "", "600mA, 10uA,High PSRR Voltage Regulator", "https://datasheet.lcsc.com/lcsc/2205241716_TECH-PUBLIC-TPAP2112K-3-3TRG1_C3021085.pdf", "1.25 mm"
+END_PART
+
+END.
