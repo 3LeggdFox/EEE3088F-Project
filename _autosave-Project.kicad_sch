@@ -7544,7 +7544,7 @@
     (property "Datasheet" "chrome-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8552174839948189696" (at 130.175 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C167969C408452" (at 130.175 41.91 90)
+    (property "LCSC" "C408452" (at 130.175 41.91 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 03dd41b6-0ec5-4eb9-99b4-aa2f0b3552b2))
