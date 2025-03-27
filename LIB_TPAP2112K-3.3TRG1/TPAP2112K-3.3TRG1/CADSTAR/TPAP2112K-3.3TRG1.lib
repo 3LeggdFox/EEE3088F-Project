@@ -1,0 +1,18 @@
+.TPAP2112K-3.3TRG1 :1 ;600mA, 10uA,High PSRR Voltage Regulator
+SOT95P280X125-5N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="EN" 4="NC" 5="VOUT"
+*MXP 5
+*DFN TPAP2112K-3.3TRG1
+~!Manufacturer_Name (TECH PUBLIC)
+~!Manufacturer_Part_Number (TPAP2112K-3.3TRG1)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/lcsc/2205241716_TECH-PUBLIC-TPAP2112K-3-3TRG1_C3021085.pdf)
+~!Height (1.25mm)
+~!3D_Model (TPAP2112K-3.3TRG1)
+TPAP2112K-3.3TRG1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

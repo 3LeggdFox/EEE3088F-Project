@@ -1,0 +1,9 @@
+Manufacturer=TECH PUBLIC
+PartNumber=TPAP2112K-3.3TRG1
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2023-03-17 10:40:53
+Downloaded=2025-03-27 14:02:16
+3D=Y
